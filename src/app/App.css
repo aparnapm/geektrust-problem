@@ -1,0 +1,13 @@
+.App{
+  background-color: black;
+  overflow: hidden;
+  height: 100vh;
+
+}
+.begin{
+  margin: auto;
+  display: block !important;
+  margin-bottom: 2%;
+}
+
+
