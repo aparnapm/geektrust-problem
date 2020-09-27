@@ -1,0 +1,22 @@
+.App{
+  background-color: black;
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: 100vh;
+
+}
+.button-style{
+  margin: auto;
+  display: block !important;
+  margin-bottom: 2%;
+}
+.visible
+{
+  visibility: visible;
+}
+.invisible
+{
+  visibility: hidden;
+}
+
+

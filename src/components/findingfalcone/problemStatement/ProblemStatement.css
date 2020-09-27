@@ -1,0 +1,18 @@
+.centerblock {
+    display: block ;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ .card-style{
+  
+    margin-left: auto;
+    margin-right: auto;
+ }
+ .instr-button{
+    color: #007bff;
+    cursor: pointer;
+ }
+ .nextbutton{
+    text-align: right ;
+ }
+

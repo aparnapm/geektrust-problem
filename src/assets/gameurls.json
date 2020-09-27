@@ -1,0 +1,10 @@
+{
+    "finding_falcone":
+    {
+        "baseUrl": "https://findfalcone.herokuapp.com/",
+        "get_planets": "planets",
+        "get_vehicles": "vehicles",
+        "get_token": "token",
+        "post_find": "find"
+    }
+}
